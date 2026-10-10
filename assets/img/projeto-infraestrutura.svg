@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220" role="img" aria-labelledby="t4 d4">
+  <title id="t4">Ilustração de computador reformado pronto para doação</title>
+  <desc id="d4">Monitor e CPU estilizados com um selo de aprovação, representando computadores recondicionados para doação</desc>
+  <rect width="400" height="220" fill="#faf7f2"/>
+  <rect x="130" y="50" width="140" height="95" rx="8" fill="#0f172a"/>
+  <rect x="140" y="60" width="120" height="68" rx="4" fill="#182238"/>
+  <rect x="185" y="145" width="30" height="18" fill="#0f172a"/>
+  <rect x="160" y="163" width="80" height="10" rx="4" fill="#0f172a"/>
+  <circle cx="300" cy="75" r="28" fill="#2dd4bf"/>
+  <path d="M288 75 l9 9 l17 -19" fill="none" stroke="#0b1120" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

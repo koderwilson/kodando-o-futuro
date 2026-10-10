@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220" role="img" aria-labelledby="t3 d3">
+  <title id="t3">Ilustração de pessoas diversas em roda de conversa</title>
+  <desc id="d3">Círculos representando um grupo diverso de pessoas reunidas em roda, simbolizando acolhimento e diversidade</desc>
+  <rect width="400" height="220" fill="#faf7f2"/>
+  <circle cx="200" cy="110" r="70" fill="none" stroke="#2dd4bf" stroke-width="2" stroke-dasharray="6 8"/>
+  <circle cx="200" cy="48" r="22" fill="#ef476f"/>
+  <circle cx="260" cy="80" r="22" fill="#ffb703"/>
+  <circle cx="260" cy="150" r="22" fill="#2dd4bf"/>
+  <circle cx="200" cy="182" r="22" fill="#ef476f"/>
+  <circle cx="140" cy="150" r="22" fill="#ffb703"/>
+  <circle cx="140" cy="80" r="22" fill="#2dd4bf"/>
+</svg>

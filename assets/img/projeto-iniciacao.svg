@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" width="400" height="220" role="img" aria-labelledby="t1 d1">
+  <title id="t1">Ilustração de blocos lógicos coloridos</title>
+  <desc id="d1">Blocos de encaixe coloridos representando programação em blocos para crianças</desc>
+  <rect width="400" height="220" fill="#faf7f2"/>
+  <rect x="40" y="60" width="90" height="50" rx="10" fill="#2dd4bf"/>
+  <rect x="150" y="60" width="90" height="50" rx="10" fill="#ffb703"/>
+  <rect x="260" y="60" width="90" height="50" rx="10" fill="#ef476f"/>
+  <rect x="95" y="130" width="90" height="50" rx="10" fill="#ffb703"/>
+  <rect x="205" y="130" width="90" height="50" rx="10" fill="#2dd4bf"/>
+  <circle cx="200" cy="40" r="14" fill="#0b1120"/>
+  <text x="200" y="45" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="14" fill="#faf7f2">&lt;/&gt;</text>
+</svg>

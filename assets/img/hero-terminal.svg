@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320" width="480" height="320" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Ilustração de uma janela de terminal com linhas de código</title>
+  <desc id="heroDesc">Janela de editor de código estilizada mostrando linhas coloridas representando um programa simples, simbolizando o aprendizado de programação</desc>
+  <rect x="0" y="0" width="480" height="320" rx="18" fill="#0f172a"/>
+  <rect x="0" y="0" width="480" height="36" rx="18" fill="#182238"/>
+  <circle cx="22" cy="18" r="6" fill="#ef476f"/>
+  <circle cx="44" cy="18" r="6" fill="#ffb703"/>
+  <circle cx="66" cy="18" r="6" fill="#2dd4bf"/>
+  <text x="240" y="23" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="12" fill="#8b9bb4">futuro.js</text>
+  <g font-family="JetBrains Mono, monospace" font-size="15">
+    <text x="28" y="70" fill="#8b9bb4">1</text>
+    <text x="56" y="70" fill="#c792ea">function</text>
+    <text x="150" y="70" fill="#82e0ff">transformar</text>
+    <text x="268" y="70" fill="#e5e9f0">(aluno) {</text>
+
+    <text x="28" y="98" fill="#8b9bb4">2</text>
+    <text x="56" y="98" fill="#e5e9f0">  aluno.</text>
+    <text x="130" y="98" fill="#82e0ff">aprender</text>
+    <text x="226" y="98" fill="#e5e9f0">(</text>
+    <text x="236" y="98" fill="#9ece6a">"logica"</text>
+    <text x="320" y="98" fill="#e5e9f0">);</text>
+
+    <text x="28" y="126" fill="#8b9bb4">3</text>
+    <text x="56" y="126" fill="#e5e9f0">  aluno.</text>
+    <text x="130" y="126" fill="#82e0ff">praticar</text>
+    <text x="222" y="126" fill="#e5e9f0">(</text>
+    <text x="232" y="126" fill="#9ece6a">"projetos reais"</text>
+    <text x="392" y="126" fill="#e5e9f0">);</text>
+
+    <text x="28" y="154" fill="#8b9bb4">4</text>
+    <text x="56" y="154" fill="#c792ea">return</text>
+    <text x="136" y="154" fill="#ffb703">"novo futuro"</text>
+    <text x="280" y="154" fill="#e5e9f0">;</text>
+
+    <text x="28" y="182" fill="#8b9bb4">5</text>
+    <text x="56" y="182" fill="#e5e9f0">}</text>
+  </g>
+  <rect x="56" y="192" width="10" height="20" fill="#ffb703">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M40 250 C 140 210, 340 290, 440 240" stroke="#2dd4bf" stroke-width="2" fill="none" stroke-dasharray="4 6" opacity="0.5"/>
+</svg>

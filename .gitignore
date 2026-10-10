@@ -1,0 +1,21 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Dependencias e artefatos de build (caso adicionados futuramente)
+node_modules/
+npm-debug.log*
+
+# Scripts auxiliares e cache Python (geracao de imagens)
+__pycache__/
+*.pyc
+
+# Arquivos temporarios
+*.tmp
+*.log
